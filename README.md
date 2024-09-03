@@ -2,7 +2,7 @@
 [![MasterHead](https://camo.githubusercontent.com/835452490445b3a39c58849a1d717b7880cb36ad3675de9f5a5299e7890c312e/687474703a2f2f6c617273656e736f6c7574696f6e732e6e6f2f64656d6f732f7061727469636c652d616e696d6174696f6e2e676966)](https://camo.githubusercontent.com/835452490445b3a39c58849a1d717b7880cb36ad3675de9f5a5299e7890c312e/687474703a2f2f6c617273656e736f6c7574696f6e732e6e6f2f64656d6f732f7061727469636c652d616e696d6174696f6e2e676966)
 <h1 align="center">Hi 👋, I'm Shubham Suryawanshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsuryawanshi221&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsuryawanshi221" /> </p>
 
