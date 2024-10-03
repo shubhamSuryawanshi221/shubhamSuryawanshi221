@@ -1,5 +1,5 @@
 
-[![MasterHead](https://camo.githubusercontent.com/835452490445b3a39c58849a1d717b7880cb36ad3675de9f5a5299e7890c312e/687474703a2f2f6c617273656e736f6c7574696f6e732e6e6f2f64656d6f732f7061727469636c652d616e696d6174696f6e2e676966)](https://camo.githubusercontent.com/835452490445b3a39c58849a1d717b7880cb36ad3675de9f5a5299e7890c312e/687474703a2f2f6c617273656e736f6c7574696f6e732e6e6f2f64656d6f732f7061727469636c652d616e696d6174696f6e2e676966)
+[![MasterHead](https://i.gyazo.com/3cda18de2f332fcbba2d9b0fef142f43.gif)]
 <h1 align="center">Hi 👋, I'm Shubham Suryawanshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
