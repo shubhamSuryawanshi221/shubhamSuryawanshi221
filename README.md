@@ -1,10 +1,9 @@
 
-![MasterHead]()
+
 <h1 align="center">Hi 👋, I'm Shubham Suryawanshi</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+<h3 align="center">A passionate Data Scientist/Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsuryawanshi221&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsuryawanshi221" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamsuryawanshi221" alt="shubhamsuryawanshi221" /></a> </p>
 
@@ -15,8 +14,6 @@
 - 🤝 I’m looking for help with **Best Coding partner**
 
 - 👨‍💻 All of my projects are available at [https://shubhamsuryawanshi221.github.io/](https://shubhamsuryawanshi221.github.io/)
-
-- 📝 I regularly write articles on [https://www.youtube.com/@shubham_221_](https://www.youtube.com/@shubham_221_)
 
 - 💬 Ask me about **Power BI,SQL,EXCEl,Tableau,AI&ML**
 
