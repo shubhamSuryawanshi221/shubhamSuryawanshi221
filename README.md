@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.gyazo.com/3cda18de2f332fcbba2d9b0fef142f43.gif)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Shubham Suryawanshi</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
