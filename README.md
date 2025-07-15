@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Data Science, Data Analytics**
 
-- 🤝 I’m looking for help with **Best Coding partner**
-
 - 👨‍💻 All of my projects are available at [https://shubhamsuryawanshi221.github.io/](https://shubhamsuryawanshi221.github.io/)
 
 - 💬 Ask me about **Power BI,SQL,EXCEl,Tableau,AI&ML**
