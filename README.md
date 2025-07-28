@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Shubham Suryawanshi Banner" style="border-radius: 8px;" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Shubham Suryawanshi</h1>
 <h3 align="center">🚀 Full Stack Developer | 🧠 Data Scientist | 📊 Data Analyst | 🎓 BCS Graduate</h3>
 
