@@ -63,7 +63,7 @@
 
 ---
 
-## 📈 My GitHub Stats (Animated & Colorful)
+## 📈 My GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamSuryawanshi221&show_icons=true&theme=gradient&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats" width="49%" />
